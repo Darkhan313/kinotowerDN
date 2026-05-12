@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS ratings;
+DROP TABLE IF EXISTS categories;
+DROP TABLE IF EXISTS genders;
+DROP TABLE IF EXISTS countries;
+DROP TABLE IF EXISTS categories_films;
